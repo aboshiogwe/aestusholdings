@@ -2050,3 +2050,9 @@ input, select, textarea {
 		}
 
 
+.thumb h2, 
+.thumb p {
+  opacity: 1 !important;   /* force visible */
+  visibility: visible !important;
+}
+
