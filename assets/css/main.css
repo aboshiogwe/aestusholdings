@@ -2070,10 +2070,4 @@ input, select, textarea {
 			color: inherit;
 		}
 
-/* Force text and links under thumbnails to always be visible */
-.thumb h2, 
-.thumb p {
-  opacity: 1 !important;   /* force visible */
-  visibility: visible !important;
-}
 
