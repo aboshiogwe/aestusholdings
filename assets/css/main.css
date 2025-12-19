@@ -1643,7 +1643,7 @@ input, select, textarea {
 				top: 0;
 				width: 100%;
 			}
-			/*
+			
 			#main .thumb > h2 {
 				pointer-events: none;
 				bottom: 1.875em;
@@ -1660,22 +1660,6 @@ input, select, textarea {
 				display: none;
 				opacity: 1 !important;   
 				visibility: visible !important;
-			}
-			*/
-			#main .thumb > h2 {
-				position: relative;       /* keep it in flow */
-				font-size: 0.9em;
-				margin: 0.5em 0;
-				z-index: 1;
-				opacity: 1 !important;
-				visibility: visible !important;
-			}
-
-			#main .thumb > p {
-				display: block;           /* make sure it shows */
-				opacity: 1 !important;
-				visibility: visible !important;
-				margin: 0.5em 0;
 			}
 
 
